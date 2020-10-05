@@ -11,6 +11,7 @@ University of Kansas Data Analytics Bootcamp Homework Assignment 10
     NumPy
     Matplotlib
     Datetime
+    SciPy Ind. T-Test
 
 ## Description:
 A. climate.ipynb
@@ -23,4 +24,10 @@ A. climate.ipynb
 6. Use of session queries to determine the maximum, minimum, and average temperatures recorded at the most active testing center.
 7. Use of session queries and Pandas to obtain all temperature measurements originating from the most active testing center during the most recent year.
 8. Use of Matplotlib to create a histogram modelling the temperature measurements taken at the most active testing center during the most recent year.
+
+B. climate.ipynb (Bonus Analysis)
+
+1. Use of session queries, Pandas, and SciPy's ttest_ind function to test whether the average temperatures in December and June are statistically distinct.
+2. Use of session queries, Pandas, and MatplotLib to create a bar chart displaying the expected temperature for a hypothetical Hawaiian vacation.
+3. Use of session queries, Pandas, MatplotLib, and the datetime library to determine expected temperatures for a range of dates, based on historical data.
 
