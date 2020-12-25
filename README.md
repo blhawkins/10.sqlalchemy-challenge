@@ -16,7 +16,7 @@
 
 # Description:
 
-This assignment explores
+This assignment explores the temperate climate of the Hawaiian Islands using a combination of Python's SQLAlchemy, Pandas, and Matplotlib libraries. A SQLite ([Hawaii.sqlite](https://github.com/blhawkins/SunAndSurf/blob/master/Resources/hawaii.sqlite)) file containing Oahu and Maui-based weather records was successfully mapped into a Jupyter Notebook. Then, various analyses were performed on the data in order to visualize and draw conclusions regarding percipitation and temperature records over the course of a calendar year.
 
 ### [Climate.ipynb](https://github.com/blhawkins/SunAndSurf/blob/master/climate.ipynb)
 Components of the climate.ipynb file include:
