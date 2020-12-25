@@ -1,5 +1,5 @@
 # Sun And Surf
-###
+### Climate Study of Oahu and Maui 🏄🏼🏝
 
 
 ## Contents:
